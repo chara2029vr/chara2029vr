@@ -37,6 +37,16 @@ Estoy contribuyendo en **Project Miru**, una **IA VTuber** que puede:
 
 ---
 
+## Antes de esto
+
+Antes de que cerrara **TuMangaOnline (TMO)**, trabajé de forma colaborativa
+en **Yashiro Scan**, un grupo de scanlation donde aprendí lo que es sacar
+proyectos en equipo (y a contrarreloj).
+
+**Encuéntralos aquí:** [Yashiro Scan en Facebook](https://www.facebook.com/profile.php?id=100070363143406)
+
+---
+
 ## Lo que uso
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
