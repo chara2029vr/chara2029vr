@@ -27,6 +27,13 @@ Estoy contribuyendo en **Project Miru**, una **IA VTuber** que puede:
 
 **Mira el proyecto aquí:** [Project Miru](https://github.com/ProZero133/ProjectMiru)
 
+También soy **programadora activa** en **Luna Has Gone** (Saikey Studios), un
+RPG con estética de fondos prerrenderizados estilo PS1: combate por turnos,
+gestión de recursos y exploración, donde juegas como Misha buscando a su
+amiga Luna.
+
+**Disponible en Steam:** [Luna Has Gone](https://store.steampowered.com/app/4483420/Luna_Has_Gone/) · [Página del estudio](https://saikeystudios.com/product/luna-has-gone/)
+
 ---
 
 ## Aviso oficial
