@@ -51,6 +51,8 @@ No solo programo. También:
 
 - Hago **modelado 3D** y **modelos para realidad virtual (VR)** propios, y a
   veces subo ese contenido a mi X.
+- Subo **animaciones MMD** a mi canal de YouTube — no es un canal grande,
+  pero sirve para ver mis modelos en movimiento como referencia.
 - Soy **editora de video y audio**.
 - Trabajo con varias herramientas de la suite de **Adobe** (Photoshop,
   Illustrator, entre otras).
@@ -94,6 +96,7 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 
 - GitHub: [@chara2029vr](https://github.com/chara2029vr)
 - X (Twitter): [@pansito2029](https://x.com/pansito2029) — ahí subo contenido de modelado 3D y VR
+- YouTube: [@charavr](https://www.youtube.com/@charavr) — animaciones MMD con mis modelos
 - Proyecto: [Project Miru](https://github.com/ProZero133/ProjectMiru)
 - Si te gusta lo que hace Miru, dale una estrella al repo
 
