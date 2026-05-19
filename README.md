@@ -45,6 +45,18 @@ exploración, donde juegas como Misha buscando a su amiga Luna.
 
 ---
 
+## Mi lado creativo
+
+No solo programo. También:
+
+- Hago **modelado 3D** y **modelos para realidad virtual (VR)** propios, y a
+  veces subo ese contenido a mi X.
+- Soy **editora de video y audio**.
+- Trabajo con varias herramientas de la suite de **Adobe** (Photoshop,
+  Illustrator, entre otras).
+
+---
+
 ## Antes de esto
 
 Antes de que cerrara **TuMangaOnline (TMO)**, trabajé de forma colaborativa
@@ -61,8 +73,10 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 ![RPG Maker](https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-<!-- Agrega o quita badges según lo que uses (¿Python para Project Miru?) -->
+<!-- Agrega o quita badges según lo que uses (¿Python para Project Miru? ¿Premiere/Blender?) -->
 
 ---
 
@@ -77,10 +91,9 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 ## Contacto
 
 - GitHub: [@chara2029vr](https://github.com/chara2029vr)
+- X (Twitter): [@pansito2029](https://x.com/pansito2029) — ahí subo contenido de modelado 3D y VR
 - Proyecto: [Project Miru](https://github.com/ProZero133/ProjectMiru)
 - Si te gusta lo que hace Miru, dale una estrella al repo
-
-<!-- Agrega aquí tus redes (Twitter/X, Discord, etc.) si quieres -->
 
 ---
 
