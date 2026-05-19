@@ -83,7 +83,9 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 ## Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chara2029vr&show_icons=true&theme=radical" alt="Estadísticas de GitHub de chara2029vr" />
+  <img src="https://img.shields.io/github/followers/chara2029vr?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores en GitHub" />
+  <img src="https://img.shields.io/github/stars/ProZero133/ProjectMiru?style=for-the-badge&logo=github&label=Estrellas%20Project%20Miru" alt="Estrellas de Project Miru" />
+  <img src="https://img.shields.io/github/last-commit/ProZero133/ProjectMiru?style=for-the-badge&label=Ultimo%20commit%20en%20Project%20Miru" alt="Ultimo commit en Project Miru" />
 </p>
 
 ---
