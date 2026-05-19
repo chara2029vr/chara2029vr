@@ -27,10 +27,11 @@ Estoy contribuyendo en **Project Miru**, una **IA VTuber** que puede:
 
 **Mira el proyecto aquí:** [Project Miru](https://github.com/ProZero133/ProjectMiru)
 
-También soy **programadora activa** en **Luna Has Gone** (Saikey Studios), un
-RPG con estética de fondos prerrenderizados estilo PS1: combate por turnos,
-gestión de recursos y exploración, donde juegas como Misha buscando a su
-amiga Luna.
+También trabajo en **Luna Has Gone** (Saikey Studios), un RPG con estética de
+fondos prerrenderizados estilo PS1: combate por turnos, gestión de recursos y
+exploración, donde juegas como Misha buscando a su amiga Luna.
+
+> **Mi rol:** Programadora de **plugins para el motor RPG Maker**.
 
 **Disponible en Steam:** [Luna Has Gone](https://store.steampowered.com/app/4483420/Luna_Has_Gone/) · [Página del estudio](https://saikeystudios.com/product/luna-has-gone/)
 
@@ -56,11 +57,12 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 
 ## Lo que uso
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RPG Maker](https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<!-- Agrega o quita badges según las tecnologías que uses en Project Miru -->
+<!-- Agrega o quita badges según lo que uses (¿Python para Project Miru?) -->
 
 ---
 
