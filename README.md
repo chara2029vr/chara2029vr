@@ -5,7 +5,15 @@
   Para que funcione: repo PÚBLICO llamado exactamente "chara2029vr".
 -->
 
-<h1 align="center">Hola, soy miru</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Hola%2C%20soy%20miru&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=programadora%20%E2%80%A2%20IA%20VTuber%20%E2%80%A2%20modelado%203D&descSize=18&descAlignY=60" alt="Hola, soy miru" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/chara2029vr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio" alt="Lo que hago, animado" />
+  </a>
+</p>
 
 <p align="center">
   <em>Sí, esa misma que se la pasó molestando a la IA todo el rato.</em>
