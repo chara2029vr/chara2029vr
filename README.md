@@ -98,6 +98,16 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   <img src="https://img.shields.io/github/last-commit/ProZero133/ProjectMiru?style=for-the-badge&label=Ultimo%20commit%20en%20Project%20Miru" alt="Ultimo commit en Project Miru" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chara2029vr/chara2029vr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chara2029vr/chara2029vr/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake comiendo mis contribuciones de GitHub" src="https://raw.githubusercontent.com/chara2029vr/chara2029vr/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<sub align="center"><em>(Esa serpiente se va comiendo mi grid de contribuciones; el workflow la regenera cada 24 h)</em></sub>
+
 ---
 
 ## Contacto
