@@ -114,11 +114,35 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Contacto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Contacto" />
 </p>
 
-- GitHub: [@chara2029vr](https://github.com/chara2029vr)
-- X (Twitter): [@pansito2029](https://x.com/pansito2029) — ahí subo contenido de modelado 3D y VR
-- YouTube: [@charavr](https://www.youtube.com/@charavr) — animaciones MMD con mis modelos
-- Proyecto: [Project Miru](https://github.com/ProZero133/ProjectMiru)
-- Si te gusta lo que hace Miru, dale una estrella al repo
+<p align="center">
+  <a href="https://github.com/chara2029vr">
+    <img src="https://img.shields.io/badge/GitHub-%40chara2029vr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @chara2029vr" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/pansito2029">
+    <img src="https://img.shields.io/badge/X-%40pansito2029-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @pansito2029" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@charavr">
+    <img src="https://img.shields.io/badge/YouTube-%40charavr-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @charavr" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/4483420/Luna_Has_Gone/">
+    <img src="https://img.shields.io/badge/Steam-Luna%20Has%20Gone-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Luna Has Gone en Steam" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100070363143406">
+    <img src="https://img.shields.io/badge/Facebook-Yashiro%20Scan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Yashiro Scan en Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <em>X: modelado 3D y VR · YouTube: animaciones MMD con mis modelos</em>
+</p>
+
+- Proyecto destacado: [Project Miru](https://github.com/ProZero133/ProjectMiru) — si te gusta lo que hace Miru, dale una estrella al repo
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="" />
