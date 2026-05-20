@@ -125,5 +125,5 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 </p>
 
 <p align="center">
-  <em>Hecho con cariño, café y un poquito de pelea con la IA.</em>
+  <em>Hecho con cariño y café.</em>
 </p>
