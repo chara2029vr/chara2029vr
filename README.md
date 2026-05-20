@@ -124,7 +124,7 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@charavr">
-    <img src="https://img.shields.io/badge/YouTube-%40charavr-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @charavr" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCJsNfBMncG3jMQg3sbKg3oQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20%40charavr&color=FF0000&labelColor=FF0000" alt="YouTube @charavr (suscriptores)" />
   </a>
 </p>
 
