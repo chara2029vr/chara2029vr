@@ -19,9 +19,9 @@
   <em>Sí, esa misma que se la pasó molestando a la IA todo el rato.</em>
 </p>
 
----
-
-## En qué ando ahora mismo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=En%20qu%C3%A9%20ando%20ahora%20mismo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="En qué ando ahora mismo" />
+</p>
 
 Estoy contribuyendo en **Project Miru**, una **IA VTuber** que puede:
 
@@ -43,17 +43,17 @@ exploración, donde juegas como Misha buscando a su amiga Luna.
 
 **Disponible en Steam:** [Luna Has Gone](https://store.steampowered.com/app/4483420/Luna_Has_Gone/) · [Página del estudio](https://saikeystudios.com/product/luna-has-gone/)
 
----
-
-## Aviso oficial
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Aviso%20oficial&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Aviso oficial" />
+</p>
 
 > Este perfil notifica que **miru (chara2029vr)** forma parte del equipo de
 > contribuidoras del proyecto **Project Miru**. Cualquier parecido entre el
 > caos del código y mi personalidad es pura coincidencia.
 
----
-
-## Mi lado creativo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mi%20lado%20creativo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mi lado creativo" />
+</p>
 
 No solo programo. También:
 
@@ -65,9 +65,9 @@ No solo programo. También:
 - Trabajo con varias herramientas de la suite de **Adobe** (Photoshop,
   Illustrator, entre otras).
 
----
-
-## Antes de esto
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Antes%20de%20esto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Antes de esto" />
+</p>
 
 Antes de que cerrara **TuMangaOnline (TMO)**, trabajé de forma colaborativa
 en **Yashiro Scan** (ahí me conocían como **Rimury**), un grupo de scanlation
@@ -75,24 +75,24 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 
 **Encuéntralos aquí:** [Yashiro Scan en Facebook](https://www.facebook.com/profile.php?id=100070363143406)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Lo%20que%20uso&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Lo que uso" />
+</p>
 
-## Lo que uso
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white" alt="RPG Maker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![RPG Maker](https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-<!-- Agrega o quita badges según lo que uses (¿Python para Project Miru? ¿Premiere/Blender?) -->
-
----
-
-## Mis estadísticas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mis%20estad%C3%ADsticas&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mis estadísticas" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/chara2029vr?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores en GitHub" />
@@ -110,9 +110,9 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 
 <sub align="center"><em>(Esa serpiente se va comiendo mi grid de contribuciones; el workflow la regenera cada 24 h)</em></sub>
 
----
-
-## Contacto
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Contacto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Contacto" />
+</p>
 
 - GitHub: [@chara2029vr](https://github.com/chara2029vr)
 - X (Twitter): [@pansito2029](https://x.com/pansito2029) — ahí subo contenido de modelado 3D y VR
@@ -120,7 +120,9 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
 - Proyecto: [Project Miru](https://github.com/ProZero133/ProjectMiru)
 - Si te gusta lo que hace Miru, dale una estrella al repo
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="" />
+</p>
 
 <p align="center">
   <em>Hecho con cariño, café y un poquito de pelea con la IA.</em>
