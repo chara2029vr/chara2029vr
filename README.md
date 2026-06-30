@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/chara2029vr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio" alt="Lo que hago, animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio;Ensamblo+avatares+de+VRChat" alt="Lo que hago, animado" />
   </a>
 </p>
 
@@ -64,6 +64,20 @@ No solo programo. También:
 - Soy **editora de video y audio**.
 - Trabajo con varias herramientas de la suite de **Adobe** (Photoshop,
   Illustrator, entre otras).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Tienda%20de%20avatares&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Tienda de avatares" />
+</p>
+
+Tengo una **vitrina/tienda de avatares de VRChat** que **ensamblo a medida**
+(bases, accesorios, ropa y físicas). La página la hice **a mano**, con su intro
+de neón, galería, música y un montón de detalles. ✨
+
+> **Aviso:** yo **no creé** las bases — cada modelo base es de quien lo creó
+> originalmente, y los derechos y créditos son de esa persona. Yo solo me
+> encargo del **ensamblado**.
+
+**Visítala aquí 👉 [neonekostore.pages.dev](https://neonekostore.pages.dev)**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Antes%20de%20esto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Antes de esto" />
@@ -125,6 +139,12 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   &nbsp;
   <a href="https://www.youtube.com/@charavr">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJsNfBMncG3jMQg3sbKg3oQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20%40charavr&color=FF0000&labelColor=FF0000" alt="YouTube @charavr (suscriptores)" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://neonekostore.pages.dev">
+    <img src="https://img.shields.io/badge/Tienda%20de%20avatares-neonekostore.pages.dev-8a6bff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Tienda de avatares" />
   </a>
 </p>
 
