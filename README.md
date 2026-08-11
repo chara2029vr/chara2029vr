@@ -174,9 +174,7 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJsNfBMncG3jMQg3sbKg3oQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20%40charavr&color=FF0000&labelColor=FF0000" alt="YouTube @charavr (suscriptores)" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/megun_sempai">
-    <img src="https://img.shields.io/badge/Discord-megun__sempai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord megun_sempai" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-megun__sempai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord megun_sempai" />
 </p>
 
 <p align="center">
