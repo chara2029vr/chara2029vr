@@ -1,10 +1,3 @@
-<!--
-  README de perfil de GitHub de chara2029vr
-  Este archivo se renderiza automáticamente en la PORTADA del perfil
-  (https://github.com/chara2029vr), debajo del nombre y antes de los repos.
-  Para que funcione: repo PÚBLICO llamado exactamente "chara2029vr".
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Hola%2C%20soy%20miru&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=programadora%20%E2%80%A2%20IA%20VTuber%20%E2%80%A2%20modelado%203D&descSize=18&descAlignY=60" alt="Hola, soy miru" />
 </p>
