@@ -20,6 +20,24 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mi%20portafolio&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mi portafolio" />
+</p>
+
+Si quieres verlo **todo junto en un solo sitio**, armé mi **portafolio**:
+ahí está mi oficio de **ensamblar avatares para VRChat** (ya van **23**), los
+**proyectos** en los que ando, las herramientas con las que trabajo y todos
+mis enlaces. Sí, otra página más — pero esta es la que reúne a las demás.
+
+- Está en **tres idiomas**: español, japonés e inglés.
+- La hice **a mano**, igual que la tienda, y desde ahí también **acepto encargos**.
+- Reúne mis redes en un solo lugar: GitHub, X, YouTube, Steam y Discord.
+
+> **Aviso:** mi X puede tener contenido **+18**, así que la página te avisa
+> antes de mandarte para allá.
+
+**Visítalo aquí 👉 [mirulab.pages.dev](https://mirulab.pages.dev)**
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=En%20qu%C3%A9%20ando%20ahora%20mismo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="En qué ando ahora mismo" />
 </p>
 
@@ -42,6 +60,20 @@ gestión de recursos y exploración, donde juegas como Misha buscando a su amiga
 > **Mi rol:** Programadora de **plugins para el motor RPG Maker** — ya terminé mi parte en el proyecto.
 
 **Disponible en Steam:** [Luna Has Gone](https://store.steampowered.com/app/4483420/Luna_Has_Gone/) · [Página del estudio](https://saikeystudios.com/product/luna-has-gone/)
+
+Y por mi cuenta ando con dos cosas más:
+
+**Avatar Optimizer** — un **plugin de Unity** que analiza un avatar de VRChat y le
+quita lo que sobra: huesos sueltos, físicas que nadie usa. Con **copia de seguridad
+y vuelta atrás**, porque aprendí por las malas que hay que poder deshacer.
+
+> **Mi rol:** Herramienta propia, hecha en **C# / Unity**.
+
+**Mechanis** — una **defensa por oleadas cooperativa** con progresión de RPG.
+No hay clases: los roles salen de un **sistema de cartas**, y las torretas se
+**ensamblan por secciones**, pieza a pieza.
+
+> **Mi rol:** Proyecto propio en **Unity (URP 2D)** — todavía en desarrollo.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Aviso%20oficial&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Aviso oficial" />
@@ -98,6 +130,7 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white" alt="RPG Maker" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
@@ -140,9 +173,17 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   <a href="https://www.youtube.com/@charavr">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJsNfBMncG3jMQg3sbKg3oQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20%40charavr&color=FF0000&labelColor=FF0000" alt="YouTube @charavr (suscriptores)" />
   </a>
+  &nbsp;
+  <a href="https://discord.com/users/megun_sempai">
+    <img src="https://img.shields.io/badge/Discord-megun__sempai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord megun_sempai" />
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://mirulab.pages.dev">
+    <img src="https://img.shields.io/badge/Portafolio-mirulab.pages.dev-a78bfa?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portafolio" />
+  </a>
+  &nbsp;
   <a href="https://neonekostore.pages.dev">
     <img src="https://img.shields.io/badge/Tienda%20de%20avatares-neonekostore.pages.dev-8a6bff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Tienda de avatares" />
   </a>
