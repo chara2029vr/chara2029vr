@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/chara2029vr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio;Ensamblo+avatares+de+VRChat" alt="Lo que hago, animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Apoyo+de+codigo+en+Rewrite+Gamble;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio;Ensamblo+avatares+de+VRChat" alt="Lo que hago, animado" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@ ahí está mi oficio de **ensamblar avatares para VRChat** (ya van **23**), los
 **proyectos** en los que ando, las herramientas con las que trabajo y todos
 mis enlaces. Sí, otra página más — pero esta es la que reúne a las demás.
 
-- Está en **tres idiomas**: español, japonés e inglés.
+- Está en **cuatro idiomas**: español, japonés, inglés y portugués.
 - La hice **a mano**, igual que la tienda, y desde ahí también **acepto encargos**.
 - Reúne mis redes en un solo lugar: GitHub, X, YouTube, Steam y Discord.
 
@@ -53,6 +53,14 @@ gestión de recursos y exploración, donde juegas como Misha buscando a su amiga
 > **Mi rol:** Programadora de **plugins para el motor RPG Maker** — ya terminé mi parte en el proyecto.
 
 **Disponible en Steam:** [Luna Has Gone](https://store.steampowered.com/app/4483420/Luna_Has_Gone/) · [Página del estudio](https://saikeystudios.com/product/luna-has-gone/)
+
+También doy **apoyo de código** en **Rewrite Gamble**, el juego del equipo de
+**Aurora**: un 2D hecho en Unity y ambientado en un casino. Me encargo de la sala
+por dentro — el amueblado, los colliders, las capas y el orden en que se dibujan
+los sprites — y de que el repositorio no se enrede.
+
+> **Mi rol:** Apoyo de código — de paso junté en `main` tres meses de ramas del
+> equipo que estaban sin integrar.
 
 Y por mi cuenta ando con dos cosas más:
 
@@ -103,6 +111,24 @@ de neón, galería, música y un montón de detalles. ✨
 > encargo del **ensamblado**.
 
 **Visítala aquí 👉 [neonekostore.pages.dev](https://neonekostore.pages.dev)**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=ATELIER%20NEONEKO&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="ATELIER NEONEKO" />
+</p>
+
+Y esta es la parte de atrás de la tienda: el **taller**. Ahí están los **24
+modelos** que tengo disponibles ahora mismo, uno por uno con sus fotos y sus
+datos, y aparte el **proceso completo con el que los ensamblo**, explicado en
+seis pasos y con capturas reales de cada uno.
+
+También cuento la parte que casi nadie explica: **por qué un modelo pesa lo que
+pesa** y qué límites hay que respetar para que ande bien dentro de VRChat.
+
+- La hice **a mano** sobre Bootstrap 5.3, sin build ni instalación.
+- Las tipografías y las librerías van **dentro del repo**, así que la página
+  abre igual **sin conexión**.
+
+**Entra aquí 👉 [atelier-neoneko.pages.dev](https://atelier-neoneko.pages.dev)**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Antes%20de%20esto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Antes de esto" />
@@ -164,7 +190,7 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@charavr">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCJsNfBMncG3jMQg3sbKg3oQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20%40charavr&color=FF0000&labelColor=FF0000" alt="YouTube @charavr (suscriptores)" />
+    <img src="https://img.shields.io/badge/YouTube-%40charavr-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @charavr" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Discord-megun__sempai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord megun_sempai" />
@@ -177,6 +203,10 @@ donde aprendí lo que es sacar proyectos en equipo (y a contrarreloj).
   &nbsp;
   <a href="https://neonekostore.pages.dev">
     <img src="https://img.shields.io/badge/Tienda%20de%20avatares-neonekostore.pages.dev-8a6bff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Tienda de avatares" />
+  </a>
+  &nbsp;
+  <a href="https://atelier-neoneko.pages.dev">
+    <img src="https://img.shields.io/badge/ATELIER-atelier--neoneko.pages.dev-58b6ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="ATELIER NEONEKO" />
   </a>
 </p>
 
