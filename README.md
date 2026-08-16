@@ -54,14 +54,6 @@ gestión de recursos y exploración, donde juegas como Misha buscando a su amiga
 
 **Disponible en Steam:** [Luna Has Gone](https://store.steampowered.com/app/4483420/Luna_Has_Gone/) · [Página del estudio](https://saikeystudios.com/product/luna-has-gone/)
 
-También doy **apoyo de código** en **Rewrite Gamble**, el juego del equipo de
-**Aurora**: un 2D hecho en Unity y ambientado en un casino. Me encargo de la sala
-por dentro — el amueblado, los colliders, las capas y el orden en que se dibujan
-los sprites — y de que el repositorio no se enrede.
-
-> **Mi rol:** Apoyo de código — de paso junté en `main` tres meses de ramas del
-> equipo que estaban sin integrar.
-
 Y por mi cuenta ando con dos cosas más:
 
 **Avatar Optimizer** — un **plugin de Unity** que analiza un avatar de VRChat y le
@@ -75,6 +67,19 @@ No hay clases: los roles salen de un **sistema de cartas**, y las torretas se
 **ensamblan por secciones**, pieza a pieza.
 
 > **Mi rol:** Proyecto propio en **Unity (URP 2D)** — todavía en desarrollo.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Rewrite%20Gamble&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Rewrite Gamble" />
+</p>
+
+**Rewrite Gamble** es el juego del equipo de **Aurora**: un 2D hecho en Unity y
+ambientado en un casino.
+
+Ahí entro yo a **dar apoyo de código**. Me encargo de la sala del casino por
+dentro — el amueblado, los colliders y el orden en que se dibujan los sprites — y
+de que el repositorio del equipo no se enrede.
+
+> **Mi rol:** Apoyo de código en **Unity (2D)** — todavía en desarrollo.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Aviso%20oficial&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Aviso oficial" />
