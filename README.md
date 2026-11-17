@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Hola%2C%20soy%20miru&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=programadora%20%E2%80%A2%20IA%20VTuber%20%E2%80%A2%20modelado%203D&descSize=18&descAlignY=60" alt="Hola, soy miru" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=header&text=Hola%2C%20soy%20miru&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=programadora%20%E2%80%A2%20IA%20VTuber%20%E2%80%A2%20modelado%203D&descSize=18&descAlignY=60" alt="Hola, soy miru" /></picture>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mi%20portafolio&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mi portafolio" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mi%20portafolio&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mi portafolio" /></picture>
 </p>
 
 Si quieres ver todo junto, armé un portafolio. Ahí está lo de ensamblar avatares
@@ -31,7 +31,7 @@ enlaces. Sí, otra página más, pero esta es la que junta a las demás.
 Visítalo aquí: **[mirulab.pages.dev](https://mirulab.pages.dev)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=En%20qu%C3%A9%20ando%20ahora%20mismo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="En qué ando ahora mismo" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=En%20qu%C3%A9%20ando%20ahora%20mismo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="En qué ando ahora mismo" /></picture>
 </p>
 
 Estoy contribuyendo en **Project Miru**, una IA VTuber que puede:
@@ -78,25 +78,25 @@ armé el panel de gestión interno, cambié el chat externo por un asistente pro
 arreglé lo que salió en la revisión del sitio.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Rewrite%20Gamble&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Rewrite Gamble" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Rewrite%20Gamble&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Rewrite Gamble" /></picture>
 </p>
 
 **Rewrite Gamble** es el juego del equipo de Aurora, un 2D hecho en Unity que pasa
 en un casino. Ahí programo, y me ha tocado meter mano en casi todas sus partes.
 
 <p align="center">
-  <img src="rewrite-gamble.svg" width="860" alt="Mi mano en Rewrite Gamble: cinco cartas con lo que hice en el juego. Luces, menús, diálogos, escenas y combate." />
+  <picture><img src="rewrite-gamble.svg" width="860" alt="Mi mano en Rewrite Gamble: cinco cartas con lo que hice en el juego. Luces, menús, diálogos, escenas y combate." /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Combate-1f6b4a?style=for-the-badge" alt="Combate" />
-  <img src="https://img.shields.io/badge/Escenas-1f6b4a?style=for-the-badge" alt="Escenas" />
-  <img src="https://img.shields.io/badge/Iluminaci%C3%B3n-1f6b4a?style=for-the-badge" alt="Iluminación" />
-  <img src="https://img.shields.io/badge/Colliders-1f6b4a?style=for-the-badge" alt="Colliders" />
-  <img src="https://img.shields.io/badge/Di%C3%A1logos-b3263b?style=for-the-badge" alt="Diálogos" />
-  <img src="https://img.shields.io/badge/Men%C3%BAs-b3263b?style=for-the-badge" alt="Menús" />
-  <img src="https://img.shields.io/badge/Emotes-b3263b?style=for-the-badge" alt="Emotes" />
-  <img src="https://img.shields.io/badge/Audio%20con%20Wwise-1d1a24?style=for-the-badge" alt="Audio con Wwise" />
+  <picture><img src="https://img.shields.io/badge/Combate-1f6b4a?style=for-the-badge" alt="Combate" /></picture>
+  <picture><img src="https://img.shields.io/badge/Escenas-1f6b4a?style=for-the-badge" alt="Escenas" /></picture>
+  <picture><img src="https://img.shields.io/badge/Iluminaci%C3%B3n-1f6b4a?style=for-the-badge" alt="Iluminación" /></picture>
+  <picture><img src="https://img.shields.io/badge/Colliders-1f6b4a?style=for-the-badge" alt="Colliders" /></picture>
+  <picture><img src="https://img.shields.io/badge/Di%C3%A1logos-b3263b?style=for-the-badge" alt="Diálogos" /></picture>
+  <picture><img src="https://img.shields.io/badge/Men%C3%BAs-b3263b?style=for-the-badge" alt="Menús" /></picture>
+  <picture><img src="https://img.shields.io/badge/Emotes-b3263b?style=for-the-badge" alt="Emotes" /></picture>
+  <picture><img src="https://img.shields.io/badge/Audio%20con%20Wwise-1d1a24?style=for-the-badge" alt="Audio con Wwise" /></picture>
 </p>
 
 En el combate trabajé las rondas, las fichas que ganas cuando un ataque te pasa
@@ -112,7 +112,7 @@ trabajo de todos y evito que se enrede.
 > Mi rol: programadora en Unity (2D). Todavía en desarrollo.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=MYCELION&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="MYCELION" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=MYCELION&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="MYCELION" /></picture>
 </p>
 
 Para la materia de Creación de universos, en la universidad, hicimos en equipo
@@ -128,7 +128,7 @@ experiencia en 3D que se recorre por capítulos.
 > uni, el repo es privado.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Aviso%20oficial&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Aviso oficial" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Aviso%20oficial&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Aviso oficial" /></picture>
 </p>
 
 > Este perfil notifica que miru (chara2029vr) forma parte del equipo de
@@ -136,7 +136,7 @@ experiencia en 3D que se recorre por capítulos.
 > código y mi personalidad es pura coincidencia.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mi%20lado%20creativo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mi lado creativo" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mi%20lado%20creativo&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mi lado creativo" /></picture>
 </p>
 
 No solo programo. También:
@@ -149,7 +149,7 @@ No solo programo. También:
 - Trabajo con varias herramientas de Adobe (Photoshop, Illustrator, entre otras).
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Tienda%20de%20avatares&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Tienda de avatares" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Tienda%20de%20avatares&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Tienda de avatares" /></picture>
 </p>
 
 Tengo una vitrina/tienda de avatares de VRChat que ensamblo a medida (bases,
@@ -168,7 +168,7 @@ es gratis tiene su etiqueta. Lo +18 va aparte, en su propia sección.
 Visítala aquí: **[neonekostore.pages.dev](https://neonekostore.pages.dev)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=ATELIER%20NEONEKO&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="ATELIER NEONEKO" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=ATELIER%20NEONEKO&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="ATELIER NEONEKO" /></picture>
 </p>
 
 Esta es la parte de atrás de la tienda, el taller. Ahí hay 24 modelos contados uno
@@ -185,7 +185,7 @@ qué límites hay que respetar para que ande bien dentro de VRChat.
 Entra aquí: **[atelier-neoneko.pages.dev](https://atelier-neoneko.pages.dev)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=IRAI&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="IRAI" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=IRAI&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="IRAI" /></picture>
 </p>
 
 **IRAI** (依頼, que en japonés quiere decir "encargo") es la página de mis
@@ -203,7 +203,7 @@ desde donde muevo la cola. También está en cuatro idiomas.
 Pasa por aquí: **[iraimiru.pages.dev](https://iraimiru.pages.dev)**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Antes%20de%20esto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Antes de esto" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Antes%20de%20esto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Antes de esto" /></picture>
 </p>
 
 Antes de que cerrara TuMangaOnline (TMO), trabajé en **Yashiro Scan** (ahí me
@@ -213,35 +213,35 @@ proyectos en equipo, y casi siempre a contrarreloj.
 Encuéntralos aquí: [Yashiro Scan en Facebook](https://www.facebook.com/profile.php?id=100070363143406)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Lo%20que%20uso&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Lo que uso" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Lo%20que%20uso&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Lo que uso" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white" alt="RPG Maker" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></picture>
+  <picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></picture>
+  <picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></picture>
+  <picture><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#" /></picture>
+  <picture><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></picture>
+  <picture><img src="https://img.shields.io/badge/RPG_Maker-2D9CDB?style=for-the-badge&logo=rpgmaker&logoColor=white" alt="RPG Maker" /></picture>
+  <picture><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" /></picture>
+  <picture><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></picture>
+  <picture><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" /></picture>
+  <picture><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /></picture>
+  <picture><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></picture>
+  <picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></picture>
+  <picture><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></picture>
+  <picture><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></picture>
+  <picture><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mis%20estad%C3%ADsticas&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mis estadísticas" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Mis%20estad%C3%ADsticas&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Mis estadísticas" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/chara2029vr?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores en GitHub" />
-  <img src="https://img.shields.io/github/stars/ProZero133/ProjectMiru?style=for-the-badge&logo=github&label=Estrellas%20Project%20Miru" alt="Estrellas de Project Miru" />
-  <img src="https://img.shields.io/github/last-commit/ProZero133/ProjectMiru?style=for-the-badge&label=Ultimo%20commit%20en%20Project%20Miru" alt="Ultimo commit en Project Miru" />
+  <picture><img src="https://img.shields.io/github/followers/chara2029vr?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores en GitHub" /></picture>
+  <picture><img src="https://img.shields.io/github/stars/ProZero133/ProjectMiru?style=for-the-badge&logo=github&label=Estrellas%20Project%20Miru" alt="Estrellas de Project Miru" /></picture>
+  <picture><img src="https://img.shields.io/github/last-commit/ProZero133/ProjectMiru?style=for-the-badge&label=Ultimo%20commit%20en%20Project%20Miru" alt="Ultimo commit en Project Miru" /></picture>
 </p>
 
 <p align="center">
@@ -255,7 +255,7 @@ Encuéntralos aquí: [Yashiro Scan en Facebook](https://www.facebook.com/profile
 <sub align="center"><em>(Esa serpiente se va comiendo mi grid de contribuciones; el workflow la regenera cada 24 h)</em></sub>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Contacto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Contacto" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=Contacto&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="Contacto" /></picture>
 </p>
 
 <p align="center">
@@ -271,7 +271,7 @@ Encuéntralos aquí: [Yashiro Scan en Facebook](https://www.facebook.com/profile
     <img src="https://img.shields.io/badge/YouTube-%40charavr-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube @charavr" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Discord-megun__sempai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord megun_sempai" />
+  <picture><img src="https://img.shields.io/badge/Discord-megun__sempai-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord megun_sempai" /></picture>
 </p>
 
 <p align="center">
@@ -309,7 +309,7 @@ Encuéntralos aquí: [Yashiro Scan en Facebook](https://www.facebook.com/profile
 Proyecto destacado: [Project Miru](https://github.com/ProZero133/ProjectMiru). Si te gusta lo que hace Miru, dale una estrella al repo.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="" /></picture>
 </p>
 
 <p align="center">
