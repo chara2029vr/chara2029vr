@@ -97,7 +97,6 @@ en un casino. Ahí programo, y me ha tocado meter mano en casi todas sus partes.
   <img src="https://img.shields.io/badge/Men%C3%BAs-b3263b?style=for-the-badge" alt="Menús" />
   <img src="https://img.shields.io/badge/Emotes-b3263b?style=for-the-badge" alt="Emotes" />
   <img src="https://img.shields.io/badge/Audio%20con%20Wwise-1d1a24?style=for-the-badge" alt="Audio con Wwise" />
-  <img src="https://img.shields.io/badge/Repo%20del%20equipo-1d1a24?style=for-the-badge" alt="Repo del equipo" />
 </p>
 
 En el combate trabajé las rondas, las fichas que ganas cuando un ataque te pasa
