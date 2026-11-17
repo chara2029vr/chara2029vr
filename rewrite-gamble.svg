@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="380" viewBox="0 0 860 380" role="img" aria-label="Mi mano en Rewrite Gamble: luces, menús, diálogos, escenas y combate">
+<defs>
+<radialGradient id="felt" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#1f6b4a"/><stop offset="1" stop-color="#0b2f21"/></radialGradient>
+<symbol id="h" viewBox="0 0 20 20"><path d="M10 18.5C10 18.5 1 12.6 1 6.6A4.6 4.6 0 0 1 10 5A4.6 4.6 0 0 1 19 6.6C19 12.6 10 18.5 10 18.5Z"/></symbol>
+<symbol id="d" viewBox="0 0 20 20"><path d="M10 1L17.5 10L10 19L2.5 10Z"/></symbol>
+<symbol id="s" viewBox="0 0 20 20"><path d="M10 1C10 1 1 7.6 1 12.2A4 4 0 0 0 8.7 13.9L7.2 19H12.8L11.3 13.9A4 4 0 0 0 19 12.2C19 7.6 10 1 10 1Z"/></symbol>
+<symbol id="c" viewBox="0 0 20 20"><circle cx="10" cy="5.4" r="4.1"/><circle cx="5" cy="11.2" r="4.1"/><circle cx="15" cy="11.2" r="4.1"/><circle cx="10" cy="10" r="2.6"/><path d="M8.9 11L7.2 19H12.8L11.1 11Z"/></symbol>
+</defs>
+<style>
+.rk{font:700 20px Georgia,'Times New Roman',serif}
+.t{font:700 14px 'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.5px}
+.d{font:400 11.5px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#3a3544}
+.cap{font:700 15px 'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:4px;fill:#d9b45a}
+.sub{font:italic 400 12.5px Georgia,'Times New Roman',serif;fill:#d9b45a;opacity:.85}
+.card{animation:deal .55s cubic-bezier(.2,.8,.2,1) both}
+@keyframes deal{from{opacity:0;transform:translateY(46px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.card{animation:none}}
+</style>
+<rect x="8" y="8" width="844" height="364" rx="36" fill="url(#felt)" stroke="#d9b45a" stroke-width="3"/>
+<rect x="20" y="20" width="820" height="340" rx="28" fill="none" stroke="#d9b45a" stroke-opacity="0.3" stroke-dasharray="2 7"/>
+<text x="430" y="50" class="cap" text-anchor="middle">MI MANO EN REWRITE GAMBLE</text>
+<g transform="translate(154 210) rotate(-14)"><g class="card" style="animation-delay:0.15s">
+<rect x="-71" y="-100" width="150" height="210" rx="12" fill="#000" opacity="0.35"/>
+<rect x="-75" y="-105" width="150" height="210" rx="12" fill="#fbf7ee" stroke="#d9b45a" stroke-width="2"/>
+<rect x="-67" y="-97" width="134" height="194" rx="8" fill="none" stroke="#b3263b" stroke-opacity="0.22"/>
+<text x="-62" y="-78" class="rk" text-anchor="middle" fill="#b3263b" style="font-size:17px;letter-spacing:-1px">10</text><use xlink:href="#h" x="-69" y="-72" width="14" height="14" fill="#b3263b"/><g transform="rotate(180)"><text x="-62" y="-78" class="rk" text-anchor="middle" fill="#b3263b" style="font-size:17px;letter-spacing:-1px">10</text><use xlink:href="#h" x="-69" y="-72" width="14" height="14" fill="#b3263b"/></g>
+<use xlink:href="#h" x="-26" y="-80" width="52" height="52" fill="#b3263b" opacity="0.16"/>
+<text x="0" y="-6" class="t" text-anchor="middle" fill="#b3263b">LUCES</text><text x="0" y="16" class="d" text-anchor="middle">Luces por cercanía,</text><text x="0" y="32" class="d" text-anchor="middle">luciérnagas y</text><text x="0" y="48" class="d" text-anchor="middle">sombras que se</text><text x="0" y="64" class="d" text-anchor="middle">esconden</text></g></g>
+<g transform="translate(292 195) rotate(-7)"><g class="card" style="animation-delay:0.29s">
+<rect x="-71" y="-100" width="150" height="210" rx="12" fill="#000" opacity="0.35"/>
+<rect x="-75" y="-105" width="150" height="210" rx="12" fill="#fbf7ee" stroke="#d9b45a" stroke-width="2"/>
+<rect x="-67" y="-97" width="134" height="194" rx="8" fill="none" stroke="#1d1a24" stroke-opacity="0.22"/>
+<text x="-62" y="-78" class="rk" text-anchor="middle" fill="#1d1a24">J</text><use xlink:href="#c" x="-69" y="-72" width="14" height="14" fill="#1d1a24"/><g transform="rotate(180)"><text x="-62" y="-78" class="rk" text-anchor="middle" fill="#1d1a24">J</text><use xlink:href="#c" x="-69" y="-72" width="14" height="14" fill="#1d1a24"/></g>
+<use xlink:href="#c" x="-26" y="-80" width="52" height="52" fill="#1d1a24" opacity="0.16"/>
+<text x="0" y="-6" class="t" text-anchor="middle" fill="#1d1a24">MENÚS</text><text x="0" y="16" class="d" text-anchor="middle">Maleta, inventario</text><text x="0" y="32" class="d" text-anchor="middle">y controles que</text><text x="0" y="48" class="d" text-anchor="middle">se reasignan</text></g></g>
+<g transform="translate(430 190) rotate(0)"><g class="card" style="animation-delay:0.43s">
+<rect x="-71" y="-100" width="150" height="210" rx="12" fill="#000" opacity="0.35"/>
+<rect x="-75" y="-105" width="150" height="210" rx="12" fill="#fbf7ee" stroke="#d9b45a" stroke-width="2"/>
+<rect x="-67" y="-97" width="134" height="194" rx="8" fill="none" stroke="#b3263b" stroke-opacity="0.22"/>
+<text x="-62" y="-78" class="rk" text-anchor="middle" fill="#b3263b">Q</text><use xlink:href="#d" x="-69" y="-72" width="14" height="14" fill="#b3263b"/><g transform="rotate(180)"><text x="-62" y="-78" class="rk" text-anchor="middle" fill="#b3263b">Q</text><use xlink:href="#d" x="-69" y="-72" width="14" height="14" fill="#b3263b"/></g>
+<use xlink:href="#d" x="-26" y="-80" width="52" height="52" fill="#b3263b" opacity="0.16"/>
+<text x="0" y="-6" class="t" text-anchor="middle" fill="#b3263b">DIÁLOGOS</text><text x="0" y="16" class="d" text-anchor="middle">Caras que cambian</text><text x="0" y="32" class="d" text-anchor="middle">con cada línea</text></g></g>
+<g transform="translate(568 195) rotate(7)"><g class="card" style="animation-delay:0.57s">
+<rect x="-71" y="-100" width="150" height="210" rx="12" fill="#000" opacity="0.35"/>
+<rect x="-75" y="-105" width="150" height="210" rx="12" fill="#fbf7ee" stroke="#d9b45a" stroke-width="2"/>
+<rect x="-67" y="-97" width="134" height="194" rx="8" fill="none" stroke="#b3263b" stroke-opacity="0.22"/>
+<text x="-62" y="-78" class="rk" text-anchor="middle" fill="#b3263b">K</text><use xlink:href="#h" x="-69" y="-72" width="14" height="14" fill="#b3263b"/><g transform="rotate(180)"><text x="-62" y="-78" class="rk" text-anchor="middle" fill="#b3263b">K</text><use xlink:href="#h" x="-69" y="-72" width="14" height="14" fill="#b3263b"/></g>
+<use xlink:href="#h" x="-26" y="-80" width="52" height="52" fill="#b3263b" opacity="0.16"/>
+<text x="0" y="-6" class="t" text-anchor="middle" fill="#b3263b">ESCENAS</text><text x="0" y="16" class="d" text-anchor="middle">PlotHouse, el</text><text x="0" y="32" class="d" text-anchor="middle">Clover Bar y la</text><text x="0" y="48" class="d" text-anchor="middle">oficina de Evelyth</text></g></g>
+<g transform="translate(706 210) rotate(14)"><g class="card" style="animation-delay:0.71s">
+<rect x="-71" y="-100" width="150" height="210" rx="12" fill="#000" opacity="0.35"/>
+<rect x="-75" y="-105" width="150" height="210" rx="12" fill="#fbf7ee" stroke="#d9b45a" stroke-width="2"/>
+<rect x="-67" y="-97" width="134" height="194" rx="8" fill="none" stroke="#1d1a24" stroke-opacity="0.22"/>
+<text x="-62" y="-78" class="rk" text-anchor="middle" fill="#1d1a24">A</text><use xlink:href="#s" x="-69" y="-72" width="14" height="14" fill="#1d1a24"/><g transform="rotate(180)"><text x="-62" y="-78" class="rk" text-anchor="middle" fill="#1d1a24">A</text><use xlink:href="#s" x="-69" y="-72" width="14" height="14" fill="#1d1a24"/></g>
+<use xlink:href="#s" x="-26" y="-80" width="52" height="52" fill="#1d1a24" opacity="0.16"/>
+<text x="0" y="-6" class="t" text-anchor="middle" fill="#1d1a24">COMBATE</text><text x="0" y="16" class="d" text-anchor="middle">Rondas, fichas</text><text x="0" y="32" class="d" text-anchor="middle">por roce, rachas</text><text x="0" y="48" class="d" text-anchor="middle">y cartas que</text><text x="0" y="64" class="d" text-anchor="middle">te persiguen</text></g></g>
+<text x="430" y="356" class="sub" text-anchor="middle">Escalera al as. En la mesa desde julio de 2026.</text>
+</svg>

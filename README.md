@@ -82,21 +82,27 @@ arreglé lo que salió en la revisión del sitio.
 </p>
 
 **Rewrite Gamble** es el juego del equipo de Aurora, un 2D hecho en Unity que pasa
-en un casino.
+en un casino. Entré en julio para echar una mano con la sala del casino y terminé
+sentada en la mesa con media baraja.
 
-Entré dando apoyo con la sala del casino (los muebles, los colliders y el orden en
-que se dibujan los sprites) y de ahí me fueron pasando cada vez más cosas. Lo que
-he hecho estos meses:
+<p align="center">
+  <img src="rewrite-gamble.svg" width="860" alt="Mi mano en Rewrite Gamble: cinco cartas con lo que hice en el juego. Luces, menús, diálogos, escenas y combate." />
+</p>
 
-- El combate nuevo, con rondas, fichas que ganas cuando esquivas un ataque por poquito, rachas y ataques de cartas.
-- Escenas como el Clover Bar y la oficina de Evelyth, con su luz, sombras y colliders.
-- Los diálogos, donde las caras cambian según lo que dice cada línea.
-- Menús: la maleta, el inventario y los controles, que ahora se pueden reasignar.
-- La rueda de emotes y varios arreglos del audio con Wwise.
+Así fue la partida, mes a mes:
 
-Y sigo cuidando que el repositorio del equipo no se enrede.
+| Mes | Lo que puse en la mesa |
+|---|---|
+| Julio | La sala del casino: amueblé PlotHouse, el mostrador y todo el primer piso con sus colliders y el orden en que se dibujan los sprites. |
+| Agosto | Recorté el suelo al octágono, junté el trabajo de todo el equipo en una sola rama, y llegaron las luces que se prenden al acercarte, las luciérnagas, una llama animada, sombras que desaparecen al entrar en la luz y la rueda de emotes en la Q. |
+| Septiembre | El combate V002, con rondas, fichas que ganas cuando un ataque te pasa rozando y el marcador de combo y saldo. |
+| Octubre | Rachas por escalones, cartas teledirigidas con más margen para esquivarlas, ventanas con luz azulada y la escena del Clover Bar. |
+| Noviembre | La escena de retry, la oficina de Evelyth con su punto de guardado en el reloj, caras que cambian en cada línea de diálogo, los menús de maleta e inventario, controles reasignables y arreglos del audio con Wwise. |
 
-> Mi rol: código en Unity (2D). Todavía en desarrollo.
+Y de paso sigo cuidando que el repositorio del equipo no se enrede.
+
+> Mi rol: código en Unity (2D), con más de 40 commits en el repo del equipo.
+> Todavía en desarrollo.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=MYCELION&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="MYCELION" />
