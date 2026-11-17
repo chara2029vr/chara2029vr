@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/chara2029vr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Codigo+en+Rewrite+Gamble;Ensamblo+avatares+de+VRChat;Mi+taller+de+encargos%3A+IRAI;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio" alt="Lo que hago, animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Programadora+de+plugins+(RPG+Maker);Contribuidora+en+Project+Miru;Programadora+en+Rewrite+Gamble;Ensamblo+avatares+de+VRChat;Mi+taller+de+encargos%3A+IRAI;Modelado+3D+y+animaciones+MMD;Editora+de+video+y+audio" alt="Lo que hago, animado" />
   </a>
 </p>
 
@@ -82,27 +82,35 @@ arreglé lo que salió en la revisión del sitio.
 </p>
 
 **Rewrite Gamble** es el juego del equipo de Aurora, un 2D hecho en Unity que pasa
-en un casino. Entré en julio para echar una mano con la sala del casino y terminé
-sentada en la mesa con media baraja.
+en un casino. Ahí programo, y me ha tocado meter mano en casi todas sus partes.
 
 <p align="center">
   <img src="rewrite-gamble.svg" width="860" alt="Mi mano en Rewrite Gamble: cinco cartas con lo que hice en el juego. Luces, menús, diálogos, escenas y combate." />
 </p>
 
-Así fue la partida, mes a mes:
+<p align="center">
+  <img src="https://img.shields.io/badge/Combate-1f6b4a?style=for-the-badge" alt="Combate" />
+  <img src="https://img.shields.io/badge/Escenas-1f6b4a?style=for-the-badge" alt="Escenas" />
+  <img src="https://img.shields.io/badge/Iluminaci%C3%B3n-1f6b4a?style=for-the-badge" alt="Iluminación" />
+  <img src="https://img.shields.io/badge/Colliders-1f6b4a?style=for-the-badge" alt="Colliders" />
+  <img src="https://img.shields.io/badge/Di%C3%A1logos-b3263b?style=for-the-badge" alt="Diálogos" />
+  <img src="https://img.shields.io/badge/Men%C3%BAs-b3263b?style=for-the-badge" alt="Menús" />
+  <img src="https://img.shields.io/badge/Emotes-b3263b?style=for-the-badge" alt="Emotes" />
+  <img src="https://img.shields.io/badge/Audio%20con%20Wwise-1d1a24?style=for-the-badge" alt="Audio con Wwise" />
+  <img src="https://img.shields.io/badge/Repo%20del%20equipo-1d1a24?style=for-the-badge" alt="Repo del equipo" />
+</p>
 
-| Mes | Lo que puse en la mesa |
-|---|---|
-| Julio | La sala del casino: amueblé PlotHouse, el mostrador y todo el primer piso con sus colliders y el orden en que se dibujan los sprites. |
-| Agosto | Recorté el suelo al octágono, junté el trabajo de todo el equipo en una sola rama, y llegaron las luces que se prenden al acercarte, las luciérnagas, una llama animada, sombras que desaparecen al entrar en la luz y la rueda de emotes en la Q. |
-| Septiembre | El combate V002, con rondas, fichas que ganas cuando un ataque te pasa rozando y el marcador de combo y saldo. |
-| Octubre | Rachas por escalones, cartas teledirigidas con más margen para esquivarlas, ventanas con luz azulada y la escena del Clover Bar. |
-| Noviembre | La escena de retry, la oficina de Evelyth con su punto de guardado en el reloj, caras que cambian en cada línea de diálogo, los menús de maleta e inventario, controles reasignables y arreglos del audio con Wwise. |
+En el combate trabajé las rondas, las fichas que ganas cuando un ataque te pasa
+rozando, las rachas y los ataques de cartas. Armé escenas enteras, desde la sala
+del casino hasta el Clover Bar y la oficina de Evelyth, con su iluminación,
+sombras y colliders. Y también hago mucho de lo que se ve y se toca mientras
+juegas: los diálogos con caras que cambian en cada línea, los menús, los
+controles, los emotes y el audio con Wwise.
 
-Y de paso sigo cuidando que el repositorio del equipo no se enrede.
+Como alguien tiene que hacerlo, también cuido el repositorio del equipo: junto el
+trabajo de todos y evito que se enrede.
 
-> Mi rol: código en Unity (2D), con más de 40 commits en el repo del equipo.
-> Todavía en desarrollo.
+> Mi rol: programadora en Unity (2D). Todavía en desarrollo.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=6,11,20&section=header&text=MYCELION&fontSize=28&fontColor=ffffff&fontAlignY=58" alt="MYCELION" />
